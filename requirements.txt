@@ -22,6 +22,6 @@ pytz==2019.3
 six==1.14.0
 sqlparse==0.3.0
 tensorboard==1.12.2
-tensorflow==1.13.0rc1
+tensorflow==2.4.0rc1
 termcolor==1.1.0
 Werkzeug==0.16.1
